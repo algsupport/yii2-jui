@@ -5,8 +5,9 @@
  * @license https://www.yiiframework.com/license/
  */
 
-namespace yii\jui;
+namespace algsupport\jui;
 
+use algsupport\jui\assets\JuiAsset;
 use Yii;
 use yii\base\InvalidParamException;
 use yii\helpers\FormatConverter;

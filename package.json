@@ -1,0 +1,15 @@
+{
+  "name": "yii2-jui",
+  "version": "1.0.0",
+  "description": "<p align=\"center\">\r     <a href=\"https://jqueryui.com/\" target=\"_blank\" rel=\"external\">\r         <img src=\"https://brand.jquery.org/resources/jqueryui-mark-dark.gif\" height=\"110px\">\r     </a>\r     <h1 align=\"center\">JUI Extension for Yii 2</h1>\r     <br>\r </p>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jquery-ui": "^1.13.2"
+  }
+}

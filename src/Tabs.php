@@ -5,7 +5,7 @@
  * @license https://www.yiiframework.com/license/
  */
 
-namespace yii\jui;
+namespace algsupport\jui;
 
 use yii\base\InvalidConfigException;
 use yii\helpers\ArrayHelper;
